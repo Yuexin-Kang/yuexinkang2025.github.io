@@ -5,32 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
+Journal Publication
+======
+- [1] **Kang, Y.**, Qu, Z., Yang, P., 2025. Enhancing E-commerce Warehouse Order Fulfillment through Predictive Order Reservation Using Machine Learning, IEEE Transactions on Automation Science and Engineering, 22:5700–5713.
+- [2] Qin, Z., **Kang, Y.**, Yang, P., 2024. Making Better Order Fulfillment in Multi-tote Storage and Retrieval Autonomous Mobile Robot Systems, Transportation Research Part E: Logistics and Transportation Review, 192, 103752.
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+Conference Publication
+======
+- [1] **Kang, Y.**, Jiang, B., Yang, P., 2024. Online Order Reservation and Batching Using Machine Learning Based on Aisle-Rack Order Similarity Metric Criterion, 2024 6th International Conference on Management Science and Industrial Engineering (MSIE), Bangkok, Thailand, (pp.136-144). ACM.
+- [2] Jiang, B., **Kang, Y.**, Zhang, C., 2024. Two-stage Robust Optimization for Lot-sizing and Scheduling Problems Considering Machine Reconfiguration, 2024 6th International Conference on Management Science and Industrial Engineering (MSIE), Bangkok, Thailand, (pp.301-308). ACM.
 
+Papers Under Review
+======
+- XXX, Submitted to International Journal of Production Research, Under 3rd-round review after Minor Revision.
+- XXX, Submitted to Computers & Operations Research, Under 1st-round Review.
+- XXX, Submitted to Computers & Industrial Engineering, Under 1st-round Review.
+
+Working Papers
+======
+- XXX, To be soon submitted to INFORMS Journal on Computing.
 
 
