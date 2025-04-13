@@ -14,7 +14,7 @@ Public Publication Profiles: [Google Scholar](https://scholar.google.com/citatio
 
 Education
 ======
-- PhD in Transportation, Department of Aeronautical and Aviation Engineering, Faculty of Engineering, The Hong Kong Polytechnic University, 2025-present (Supervisor: [Assoc. Prof. Wei Liu](https://weiliu2016.github.io/), Incoming)
+- PhD in Transportation (incoming), Department of Aeronautical and Aviation Engineering, Faculty of Engineering, The Hong Kong Polytechnic University, 2025-present (Supervisor: [Assoc. Prof. Wei Liu](https://weiliu2016.github.io/))
 - Master of Engineering Management (Logistics Engineering and Management), Tsinghua University, 2022-2025 (Supervisor: [Assoc. Prof. Peng Yang](https://www.sigs.tsinghua.edu.cn/yp/main.htm))
 - Bachelor of Management, Wuhan University, 2018-2022
 
