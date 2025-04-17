@@ -18,8 +18,9 @@ Education
 - Master of Engineering Management (Logistics Engineering and Management), [Tsinghua University](https://www.tsinghua.edu.cn/), 2022-2025 (Supervisor: [Assoc. Prof. Peng Yang](https://www.sigs.tsinghua.edu.cn/yp/main.htm))
 - Bachelor of Management, [Wuhan University](https://www.whu.edu.cn/), 2018-2022
 
-Research Areas
+Research Interests
 ======
 - Transportation and Logistics
+- Dense Parking Optimization
 - Low-altitude Air Mobility
 - Smart Warehouse
