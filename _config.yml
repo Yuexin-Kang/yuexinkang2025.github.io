@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yuexin Kang / Homepage"
+title                    : "Yuexin Kang's Homepage"
 title_separator          : "-"
 name                     : &name "Yuexin Kang"
 description              : &description "personal description"
-url                      : https://yuexin-kang.github.io/yuexinkang2025.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://yuexinkang2025.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yuexin-Kang/yuexinkang2025.github.io"
 
