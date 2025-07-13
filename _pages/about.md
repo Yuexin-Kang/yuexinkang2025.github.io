@@ -21,6 +21,5 @@ Education
 Research Interests
 ======
 - Transportation and Logistics
-- Parking Optimization
-- Low-altitude Air Mobility
+- Parking Optimization and Management
 - Smart Warehouse
