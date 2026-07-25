@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ms. Yuexin Kang is a PhD student in Transportation at the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), under the supervision of [Prof. Wei Liu](https://weiliu2016.github.io/). Her first-author work has been published in *European Journal of Operational Research*, *IEEE Transactions on Automation Science and Engineering*, and *International Journal of Production Research*.
+Ms. Yuexin (Audrey) Kang is a PhD student in Transportation at the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), under the supervision of [Prof. Wei Liu](https://weiliu2016.github.io/). Her first-author work has been published in *European Journal of Operational Research*, *IEEE Transactions on Automation Science and Engineering*, and *International Journal of Production Research*.
 
 Public Publication Profiles: [Google Scholar](https://scholar.google.com/citations?user=Qp0LzREAAAAJ&hl=en), [ORCID](https://orcid.org/0009-0007-0578-3090), [ResearchGate](https://www.researchgate.net/profile/Yuexin-Kang).
 
