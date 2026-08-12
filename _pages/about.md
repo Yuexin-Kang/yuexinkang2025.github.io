@@ -26,7 +26,7 @@ Selected Publications
 
 Selected Working Papers
 ======
-- **Kang, Y.**, Ji, K., Liu, X., Miao, L., Liu, W. Clustering with two-stage stochastic programming: An application to usage behavior pattern mining in parking subscription services. Submitted to *Transportation Research Part C: Emerging Technologies*, Major revision.
+- **Kang, Y.**, Ji, K., Liu, X., Miao, L., Liu, W. Clustering with two-stage stochastic programming: An application to usage behavior pattern mining in parking subscription services. Submitted to *Transportation Research Part C: Emerging Technologies*, Minor revision.
 - **Kang, Y.**, Yang, P., Liu, X., Shen, Z. J. M., Liu, W. Online stochastic postponement-aware order pooling: Model, recursive decomposition algorithm and an application to warehouse operations. Submitted. ([Abstract](https://www.researchgate.net/publication/403251255_Online_Stochastic_Postponement-Aware_Order_Pooling_Model_Recursive_Decomposition_Algorithm_and_An_Application_to_Warehouse_Operations))
 - **Kang, Y.**, Liu, W. Is lookahead enough? Decision-bound learning for online capacity provisioning in integrated parking and charging operations. Submitted.
 - **Kang, Y.**, Liu, W. A multi-service electric vehicle platform between parking-charging and vehicle-to-grid operators: Pricing, contracting, and fleet operations.
