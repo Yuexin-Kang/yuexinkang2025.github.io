@@ -18,12 +18,6 @@ Research Interests
 - Shared, automated, and electrified transportation systems
 - Robotic logistics and intelligent warehouse operations
 
-Selected Publications
-======
-- **Kang, Y.**, Shao, J., Li, M., Yang, P., Chen, R. (2026) Deep reinforcement learning for order-tote-robot coordination in multi-tote storage and retrieval systems with sequential picking stations. *European Journal of Operational Research*, In press. ([Download](https://doi.org/10.1016/j.ejor.2026.06.005))
-- **Kang, Y.**, Qu, Z., Yang, P. (2025) Enhancing e-commerce warehouse order fulfillment through predictive order reservation using machine learning. *IEEE Transactions on Automation Science and Engineering*, 22:5700–5713. ([Download](https://doi.org/10.1109/TASE.2024.3428541))
-- **Kang, Y.**, Wang, R., Qin, Z., Yang, P., Yan, Y. (2025) Warehouses with heterogeneous robots collaboration: Operational policies and performance analysis. *International Journal of Production Research*, 63(23), 8698–8726. ([Download](https://doi.org/10.1080/00207543.2025.2513576))
-
 Selected Working Papers
 ======
 - **Kang, Y.**, Ji, K., Liu, X., Miao, L., Liu, W. Clustering with two-stage stochastic programming: An application to usage behavior pattern mining in parking subscription services. Submitted to *Transportation Research Part C: Emerging Technologies*, Minor revision.
